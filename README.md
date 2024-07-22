@@ -14,9 +14,9 @@ Welcome to Mobile Hub, a sleek and user-friendly mobile application designed to 
 
 ## Screenshots
 
-![Home Screen](screenshots/home.png)
-![Product Details](screenshots/product_details.png)
-![Cart](screenshots/cart.png)
+![Home Screen](screenshots/home.jpg)
+![Product Details](screenshots/product_details.jpg)
+![Cart](screenshots/cart.jpg)
 
 ## Installation
 

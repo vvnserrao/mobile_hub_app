@@ -1,16 +1,61 @@
-# shop_app_flutter
+---
 
-A new Flutter project.
+# Mobile Hub
 
-## Getting Started
+Welcome to Mobile Hub, a sleek and user-friendly mobile application designed to provide a seamless shopping experience for mobile phones. This app offers a comprehensive product list, detailed product pages, and a shopping cart feature.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Product Listing**: Browse through a wide variety of mobile phones with detailed descriptions, prices, and images.
+- **Product Details**: View detailed information about each product, including available sizes and colors.
+- **Search Functionality**: Easily search for products using the search bar.
+- **Filter Options**: Filter products by company to find exactly what you're looking for.
+- **Shopping Cart**: Add products to your cart for a streamlined shopping experience.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Home Screen](screenshots/home.png)
+![Product Details](screenshots/product_details.png)
+![Cart](screenshots/cart.png)
+
+## Installation
+
+To get started with the Mobile Hub app, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/vvnserrao/mobile_hub_app.git
+   ```
+
+2. **Navigate to the project directory:**
+   ```bash
+   cd mobile_hub_app
+   ```
+
+3. **Install dependencies:**
+   ```bash
+   flutter pub get
+   ```
+
+4. **Run the app:**
+   ```bash
+   flutter run
+   ```
+
+## Usage
+
+1. **Browse Products**: On the home screen, browse through the list of available mobile phones.
+2. **Search**: Use the search bar at the top to quickly find specific products.
+3. **Filter**: Apply filters by company to narrow down your search.
+4. **View Details**: Tap on a product to view detailed information, including images, prices, and available sizes/colors.
+5. **Add to Cart**: Add desired products to your cart and proceed to checkout.
+
+
+   ```
+
+
+
+
+
+
+---
